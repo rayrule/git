@@ -15,6 +15,7 @@ This file is the fixed task entrypoint for all machines.
 | --- | --- | --- | --- | --- |
 | T001 | `worker-steamdeck` | `todo` | Verify repository access from Steam Deck | Run `git pull --ff-only`, then confirm the latest `TASKS.md` is visible. |
 | T002 | `main-windows` | `todo` | Assign the first real project task | Add the first implementation or validation task here. |
+| T003 | `worker-desktop` | `todo` | Verify repository access from worker desktop | Run `git pull --ff-only`, then confirm the latest `TASKS.md` is visible. |
 
 ## Reporting Format
 
@@ -25,4 +26,3 @@ When a machine reports back, include:
 - Commands run
 - Result
 - Blockers, if any
-
